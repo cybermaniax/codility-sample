@@ -3,6 +3,9 @@ package codility;
 import java.util.regex.Pattern;
 
 /**
+ * Score 100 %
+ * Correctness 100 %
+ * Performance ??
  * 
  * @author ghalajko
  *

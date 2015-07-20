@@ -1,6 +1,8 @@
 package codility;
 
 /**
+ * Score 50%
+ * Correctness 50%
  * 
  * @author ghalajko
  *
